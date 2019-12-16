@@ -8,7 +8,7 @@
 - Left click to open square
 - Red squares indicate bombs
 
-Wiki provided for more inforatmion:
+Wiki provided for more inforatmion regarding minesweeper:
 https://en.wikipedia.org/wiki/Minesweeper_(video_game)
 
 ## Installation
