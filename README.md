@@ -13,4 +13,4 @@ and untested in other browsers.
 Requires the following packages: (included)
 - d3.v4.min.js
 
-Note: These are included inside the "includes" folder. 
+Note: Included inside the "includes" folder. 
