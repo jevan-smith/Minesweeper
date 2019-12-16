@@ -1,5 +1,4 @@
 
-## Minesweeper
 ![demo gif1](sample.gif)
 
 [Click Here for Demo](https://jevan1000.github.io/Minesweeper/)
