@@ -5,7 +5,7 @@
 
 ## Game Instructions
 - Right click to place flags
-- Left click to open square
+- Left click to open squares
 - Red squares indicate bombs
 
 Wiki provided for more inforatmion regarding minesweeper:
