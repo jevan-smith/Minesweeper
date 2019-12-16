@@ -3,6 +3,14 @@
 
 [Click Here for Demo](https://jevan1000.github.io/Minesweeper/)
 
+## Game Instructions
+- Right click to place flags
+- Left click to open square
+- Red squares indicate bombs
+
+Wiki provided for more inforatmion:
+https://en.wikipedia.org/wiki/Minesweeper_(video_game)
+
 ## Installation
 Everything is provided simply open "index.html" and everything should
 work properly.
