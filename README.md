@@ -1,9 +1,7 @@
 
-<center>
 ![demo gif1](sample.gif)
 
 [Click Here for Demo](https://jevan1000.github.io/Minesweeper/)
-</center>
 
 ## Installation
 Everything is provided simply open "index.html" and everything should
