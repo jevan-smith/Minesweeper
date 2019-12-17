@@ -3,7 +3,7 @@
 
 [Click Here for Demo](https://jevan1000.github.io/Minesweeper/)
 
-## Game Instructions
+## Instructions
 - Right click to place flags
 - Left click to open squares
 - Red squares indicate bombs
